@@ -1,1 +1,1 @@
-example
+this is the folder where images of the album will be
